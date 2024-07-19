@@ -2,6 +2,7 @@
 #define credits_h
 // dictionary will be sorted alphabetically
 static NSDictionary* CREDITS = @{
+@"TheAlphaStream" : @"https://twitter.com/kutarin_",
 @"Nick Chan" : @"https://github.com/asdfugil",
 @"opa334" : @"http://github.com/opa334",
 @"hayden" : @"https://procursus.social/@hayden",
@@ -74,6 +75,7 @@ static NSDictionary* CREDITS = @{
 @"Kevin" : @"https://github.com/iodes",
 @"i_82" : @"https://github.com/Lessica",
 @"Lakr" : @"https://github.com/Lakr233",
+@"olivertzeng" : @"https://github.com/olivertzeng",
 };
 
 #endif /* credits_h */
